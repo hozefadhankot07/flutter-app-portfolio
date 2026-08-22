@@ -32,6 +32,9 @@ https://play.google.com/store/apps/details?id=com.hd.songlyricsgenerator
 EV Stations
 https://play.google.com/store/apps/details?id=com.santoriniapps.ev.stations
 
+Phone Dialer
+https://play.google.com/store/apps/details?id=com.hd.phone.dialer.contact
+
 
 ## App Store
 
